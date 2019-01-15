@@ -1,0 +1,35 @@
+[0112/200908:ERROR:renderer_main.cc(203)] Running without renderer sandbox
+[0112/200908:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0112/200909:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0112/200909:INFO:CONSOLE(1)] "
+          _____                    _____                    _____                    _____          
+         /\    \                  /\    \                  /\    \                  /\    \         
+        /::\____\                /::\    \                /::\    \                /::\    \        
+       /:::/    /                \:::\    \              /::::\    \              /::::\    \       
+      /:::/    /                  \:::\    \            /::::::\    \            /::::::\    \      
+     /:::/    /                    \:::\    \          /:::/\:::\    \          /:::/\:::\    \     
+    /:::/____/                      \:::\    \        /:::/__\:::\    \        /:::/__\:::\    \    
+   /::::\    \                      /::::\    \      /::::\   \:::\    \      /::::\   \:::\    \   
+  /::::::\    \   _____    ____    /::::::\    \    /::::::\   \:::\    \    /::::::\   \:::\    \  
+ /:::/\:::\    \ /\    \  /\   \  /:::/\:::\    \  /:::/\:::\   \:::\____\  /:::/\:::\   \:::\    \ 
+/:::/  \:::\    /::\____\/::\   \/:::/  \:::\____\/:::/  \:::\   \:::|    |/:::/__\:::\   \:::\____\
+\::/    \:::\  /:::/    /\:::\  /:::/    \::/    /\::/   |::::\  /:::|____|\:::\   \:::\   \::/    /
+ \/____/ \:::\/:::/    /  \:::\/:::/    / \/____/  \/____|:::::\/:::/    /  \:::\   \:::\   \/____/ 
+          \::::::/    /    \::::::/    /                 |:::::::::/    /    \:::\   \:::\    \     
+           \::::/    /      \::::/____/                  |::|\::::/    /      \:::\   \:::\____\    
+           /:::/    /        \:::\    \                  |::| \::/____/        \:::\   \::/    /    
+          /:::/    /          \:::\    \                 |::|  ~|               \:::\   \/____/     
+         /:::/    /            \:::\    \                |::|   |                \:::\    \         
+        /:::/    /              \:::\____\               \::|   |                 \:::\____\        
+        \::/    /                \::/    /                \:|   |                  \::/    /        
+         \/____/                  \/____/                  \|___|                   \/____/         
+
+知乎(zhihu.com)，招聘前端开发工程师 http://zhi.hu/BDXoD
+    ", source: https://unpkg.zhimg.com/@cfe/sentry-script@0.0.10/dist/init.js (1)
+[0112/201815:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 6844416
+[0112/201815:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 6844416
+[0112/201816:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 6844416
+[0113/133615:ERROR:renderer_main.cc(203)] Running without renderer sandbox
+[0113/133615:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[0113/133621:ERROR:renderer_main.cc(203)] Running without renderer sandbox
+[0113/133621:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
