@@ -2,7 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2019-05-22
 
+### Added
+
+- 增加部分数学及线性代数资料
 
 ## 2019-05-18
 
